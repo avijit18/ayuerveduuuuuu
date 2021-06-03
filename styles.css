@@ -1,0 +1,63 @@
+body {
+  font-family: Montserrat;
+
+}
+
+#title {
+  background-image: url("backgnd.jpg");
+  color:#fff;
+}
+
+.container-fluid {
+  padding: inherit;
+}
+
+h1 {
+  font-family: "Montserrat-Black";
+  font-size: 3rem;
+  line-height: 1.5;
+
+
+}
+
+h2 {
+  font-family: "Montserrat-Black";
+  font-size: 3rem;
+  line-height: 1.5;
+}
+h3{
+  font-family: "Montserrat-bold";
+  font-size: 1.5rem;
+}
+p{
+  font-family: "Montserrat-bold";
+  color: #8f8f8f;
+}
+.nav-link{
+  font-family: Ubuntu;
+}
+
+.navbar-brand{
+  font-family: Ubuntu;
+    padding-right: 1rem;;
+}
+#features{
+  background-color: #fff;
+  padding:7% 15%;
+}
+
+.features-box{
+  text-align: center;
+  padding: 15%;
+}
+.icon{
+  color:#ef8172;
+  margin-bottom: 1rem;
+  padding: inherit;
+}
+.icon:hover{
+  color:#ff4c68;
+}
+#testimonials{
+  background-color: #ff6347;
+}
